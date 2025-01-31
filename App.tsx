@@ -533,7 +533,7 @@ const styles = StyleSheet.create({
   },
   subtitle: {
     fontSize: 14,
-    fontWeight: '300', // Thin font weight
+    fontWeight: '300', 
     color: '#666666',
   },
   chartLabelContainer: {
@@ -567,7 +567,7 @@ const styles = StyleSheet.create({
   },
   legendImage: {
     width: '100%',
-    height: 50, // Adjust height as needed
+    height: 50, 
     marginBottom: 16,
   },
   edssHeader: {
@@ -581,18 +581,18 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   edssIcon: {
-    width: 24, // Adjust size as needed
-    height: 24, // Adjust size as needed
+    width: 24, 
+    height: 24, 
     marginRight: 8,
   },
   edssLevel: {
     fontSize: 18,
     fontWeight: 'bold',
-    color: '#007bff', // Blue color
+    color: '#007bff', 
   },
   smallIcon: {
-    width: 20, // Adjust size as needed
-    height: 20, // Adjust size as needed
+    width: 20, 
+    height: 20, 
   },
   edssDescription: {
     fontSize: 14,
